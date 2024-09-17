@@ -1,0 +1,13 @@
+
+  .poll-choices {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .poll-choice {
+    margin-bottom: 5px;
+  }
+  
+  .poll-choice input[type="radio"] {
+    margin-right: 5px;
+  }
